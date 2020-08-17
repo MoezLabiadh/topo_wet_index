@@ -50,7 +50,7 @@ def getDEM (roi):
 
 def calculateTWI (dem):
     '''
-    This function will calculate the TWI based on DEM dataset
+    This function calculates the TWI based on DEM dataset
     '''
     # Calculate the Flow Direction and Accumulation
     print ("Calculating Flow Direction and Accumulation...")
